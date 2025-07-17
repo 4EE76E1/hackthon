@@ -3,7 +3,7 @@
     --secondary: #2ecc71;
     --dark: #2c3e50;
     --light: #ecf0f1;
-    --reda: #e74c3c;
+    --rida: #e74c3c;
     --ihab: #9b59b6;
     --ilyass: #f39c12;
 }
@@ -194,7 +194,7 @@ h1 {
     font-weight: bold;
 }
 
-.reda { background: var(--reda); }
+.rida { background: var(--rida); }
 .ihab { background: var(--ihab); }
 .ilyass { background: var(--ilyass); }
 
