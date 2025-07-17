@@ -9,10 +9,10 @@ let teamGames = [
     image:
       "https://images.ctfassets.net/vfkpgemp7ek3/1240004181/8b1fdb1ab8330de77e0f8ecf1f5757c1/call-of-duty-mobile-hero-a.jpg",
     description:
-      "One of the most popular mobile games in both Morocco and USA. Great for team battles and competitive gaming!",
+      "Fast-paced multiplayer first-person shooter with battle royale and multiplayer modes. Features classic maps and weapons from the Call of Duty franchise.",
     member: "Rida",
     liked: true,
-    dateAdded: "2025-01-10",
+    dateAdded: "2025-07-17",
   },
   {
     id: 2,
@@ -22,10 +22,10 @@ let teamGames = [
     image:
       "https://www.nintendo.com/eu/media/images/assets/nintendo_switch_games/fortnite/2x1_NSwitch_Fortnite_20250605.jpg",
     description:
-      "Extremely popular worldwide, including Morocco and USA. Perfect for team building and strategic thinking!",
+      "Battle royale game where 100 players fight to be the last one standing. Features building mechanics, creative modes, and frequent content updates.",
     member: "Rida",
     liked: true,
-    dateAdded: "2025-01-15",
+    dateAdded: "2025-07-17",
   },
   {
     id: 3,
@@ -35,10 +35,10 @@ let teamGames = [
     image:
       "https://cdn.sortiraparis.com/images/80/66131/1103306-valorant-le-jeu-video-signe-riot-games-est-disponible.jpg",
     description:
-      "Rising in popularity in Morocco's gaming scene. As team lead, I love the strategic team coordination required!",
+      "Tactical 5v5 character-based shooter with unique agent abilities. Combines precise gunplay with strategic team coordination and map control.",
     member: "Rida",
     liked: true,
-    dateAdded: "2025-01-22",
+    dateAdded: "2025-07-17",
   },
 
   {
@@ -49,10 +49,10 @@ let teamGames = [
     image:
       "https://www.notebookcheck.biz/fileadmin/Notebooks/News/_nc3/PUBG_2.0.jpg",
     description:
-      "Hugely popular mobile game in Morocco. The UI design and mobile interface inspire my frontend work!",
+      "Battle royale shooter with realistic graphics and tactical gameplay. Features multiple maps, weapons, and vehicles for intense survival combat.",
     member: "Ihab",
     liked: true,
-    dateAdded: "2025-01-12",
+    dateAdded: "2025-07-17",
   },
   {
     id: 5,
@@ -61,10 +61,10 @@ let teamGames = [
     rating: 4,
     image: "https://i.ytimg.com/vi/uWsQ5IWVilM/maxresdefault.jpg",
     description:
-      "Popular mobile strategy game worldwide. The card-based UI design is brilliant for mobile UX inspiration!",
+      "Real-time strategy card game featuring collectible cards and tower defense mechanics. Quick matches with deep strategic gameplay.",
     member: "Ihab",
     liked: true,
-    dateAdded: "2025-01-18",
+    dateAdded: "2025-07-17",
   },
   {
     id: 6,
@@ -74,10 +74,10 @@ let teamGames = [
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUEJH84LMRi5trReCk45rqa7-t1yycGRD5kUv211vEjgEE2FZ4OOFzP1POZgT1xt-nwW0&usqp=CAU",
     description:
-      "Football is huge in Morocco! FIFA is extremely popular among Moroccan and American gamers alike.",
+      "Authentic football simulation with realistic player movements, team management, and multiple game modes including Ultimate Team and Career Mode.",
     member: "Ihab",
     liked: true,
-    dateAdded: "2025-01-20",
+    dateAdded: "2025-07-17",
   },
 
   {
@@ -88,10 +88,10 @@ let teamGames = [
     image:
       "https://egamersworld.com/cdn-cgi/image/width=690,quality=75,format=webp/uploads/blog/1/17/1735564816859_1735564816859.webp",
     description:
-      "Massive esports scene in both Morocco and USA. The server architecture and backend systems fascinate me!",
+      "Multiplayer online battle arena with over 160 unique champions. Strategic team-based gameplay with ranked competitive modes and esports scene.",
     member: "Ilyass",
     liked: true,
-    dateAdded: "2025-01-08",
+    dateAdded: "2025-07-17",
   },
   {
     id: 8,
@@ -101,10 +101,10 @@ let teamGames = [
     image:
       "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_AmongUs_image1600w.jpg",
     description:
-      "Became a global phenomenon during pandemic. Popular in Morocco too. Love analyzing the multiplayer networking!",
+      "Social deduction game where crewmates complete tasks while impostors sabotage and eliminate players. Simple yet engaging multiplayer experience.",
     member: "Ilyass",
     liked: false,
-    dateAdded: "2025-01-20",
+    dateAdded: "2025-07-17",
   },
   {
     id: 10,
@@ -114,10 +114,10 @@ let teamGames = [
     image:
       "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_4/2x1_NSwitch_Minecraft.jpg",
     description:
-      "Universal appeal across all ages in both Morocco and USA. Great for creativity and problem-solving!",
+      "Open-world sandbox game with endless creativity. Build, explore, and survive in procedurally generated worlds with crafting and adventure elements.",
     member: "Rida",
     liked: true,
-    dateAdded: "2025-01-30",
+    dateAdded: "2025-07-17",
   },
   {
     id: 11,
@@ -127,10 +127,10 @@ let teamGames = [
     image:
       "https://fr.egw.news/_next/image?url=https%3A%2F%2Fegw.news%2Fuploads%2Fnews%2F1%2F17%2F1740901857026_1740901857026.webp&w=1920&q=75",
     description:
-      "Long-standing mobile strategy game popular worldwide. The clan system promotes teamwork!",
+      "Mobile strategy game focused on base building, troop management, and clan warfare. Features raids, defense strategies, and cooperative gameplay.",
     member: "Ihab",
     liked: true,
-    dateAdded: "2025-02-01",
+    dateAdded: "2025-07-17",
   },
   {
     id: 12,
@@ -140,10 +140,10 @@ let teamGames = [
     image:
       "https://cdn.cloudflare.steamstatic.com/steam/apps/252950/header.jpg",
     description:
-      "Unique car-soccer game that's gained popularity in Morocco's gaming community. Great for team coordination!",
+      "Unique vehicular soccer game combining driving mechanics with football. Features aerial maneuvers, customization, and competitive ranked play.",
     member: "Ilyass",
     liked: true,
-    dateAdded: "2025-02-05",
+    dateAdded: "2025-07-17",
   },
 ];
 let showAsList = false;
