@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mes Jeux Favoris - Gaming Collection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <header>
+        <h1>🎮 Notre Collection d'Équipe</h1>
+        <p class="header-subtitle">Découvrez les jeux favoris de notre équipe de développement</p>
+        <div class="team-info">
+            <div class="team-member">
+                <span class="member-name">👨‍💻 Reda</span>
+                <span class="member-role">Frontend Dev</span>
+            </div>
+            <div class="team-member">
+                <span class="member-name">👩‍💻 Ihab</span>
+                <span class="member-role">Frontend Dev</span>
+            </div>
+            <div class="team-member">
+                <span class="member-name">👨‍💻 Ilyass</span>
+                <span class="member-role">Backend Dev</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="controls">
+            <button id="toggleViewBtn" class="btn-secondary">📋 Vue liste</button>
+            <select id="memberFilter" class="member-filter">
+                <option value="all">👥 Tous les membres</option>
+                <option value="Ihab">👩‍💻 Ihab</option>
+                <option value="Reda">👨‍💻 Reda</option>
+                <option value="Ilyass">👨‍💻 Ilyass</option>
+            </select>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <h3>Total des jeux</h3>
+                <span id="totalGames">0</span>
+            </div>
+            <div class="stat-card">
+                <h3>Jeux de l'équipe</h3>
+                <span id="teamFavorites">0</span>
+            </div>
+            <div class="stat-card">
+                <h3>Membre actif</h3>
+                <span id="activeMember">Reda</span>
+            </div>
+        </div>
+
+        <div class="games-container" id="gamesContainer">
+            <!-- Les jeux seront générés dynamiquement par JavaScript -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Gaming Collection - Projet collaboratif par Reda, Ihab & Ilyass</p>
+        <p>🤝 Développé en équipe avec VS Code Live Share</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
